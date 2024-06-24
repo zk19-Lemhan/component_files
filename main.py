@@ -39,9 +39,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# Update 1760146372-20055
-
-# Update 1760146372-30303
-
-# Update 1760146372-18478
