@@ -46,3 +46,6 @@ See [deployment guide](docs/deployment.md) for production setup.
 
 ## Update from feature/merge-5505
 - Auto-generated changes
+
+## Update from enhancement/merge-4210
+- Auto-generated changes
