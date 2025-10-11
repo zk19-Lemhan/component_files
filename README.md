@@ -52,3 +52,6 @@ See [deployment guide](docs/deployment.md) for production setup.
 
 ## Update from docs/merge-6049
 - Auto-generated changes
+
+## Update from docs/merge-7262
+- Auto-generated changes
