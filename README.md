@@ -43,3 +43,6 @@ See [deployment guide](docs/deployment.md) for production setup.
 
 ## Update from fix/merge-8362
 - Auto-generated changes
+
+## Update from feature/merge-5505
+- Auto-generated changes
