@@ -37,3 +37,6 @@ See [deployment guide](docs/deployment.md) for production setup.
 
 ## Update from fix/merge-4363
 - Auto-generated changes
+
+## Update from fix/merge-6930
+- Auto-generated changes
